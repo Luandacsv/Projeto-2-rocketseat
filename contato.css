@@ -1,0 +1,10 @@
+body {
+  border-width: medium;
+  border-style: solid;
+  padding-right: 100px;
+  margin-top: 1em;
+  padding-left: 4px;
+}
+.espacamento {
+  padding-left: 4px;
+}
